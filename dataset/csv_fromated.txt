@@ -1,0 +1,1183 @@
+SUPPLIER PROFILE: SUP-001 — Orrentek Precision Mfg
+Region: APAC | Country: China | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 18 POs: OTD 95.7%, Defect Rate 0.87%, Compliance Score 86.3, Sustainability 81.2
+Volume: 136,466 units ordered, 131,520 delivered on time, 1,116 rejected. Total PO value $939,643.
+Average Lead Time: 27 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, RoHS.
+Active Disruptions: Tariff adjustment pending, Regulatory audit pending, Political instability flag, Port congestion risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-006. Last Audit: 2023-08-12.
+
+SUPPLIER PROFILE: SUP-002 — Zhenlong ElectroCo
+Region: APAC | Country: China | Category: Electronic Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 84.9%, Defect Rate 1.56%, Compliance Score 77.8, Sustainability 63.8
+Volume: 653,138 units ordered, 562,488 delivered on time, 10,578 rejected. Total PO value $3,923,690.
+Average Lead Time: 32 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Geopolitical tension flag, Port congestion risk, Typhoon season disruption, Labour strike risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-114. Last Audit: 2023-06-13.
+
+SUPPLIER PROFILE: SUP-003 — Wanlong Composites Ltd
+Region: APAC | Country: China | Category: Raw Materials | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 88.0%, Defect Rate 1.79%, Compliance Score 79.7, Sustainability 70.4
+Volume: 536,511 units ordered, 470,803 delivered on time, 9,556 rejected. Total PO value $6,882,035.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Audit overdue; compliance review, Regulatory enforcement pending, Seasonal flood risk, Port closure risk, Currency volatility flag, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-081. Last Audit: 2023-02-14.
+
+SUPPLIER PROFILE: SUP-004 — Yangtze Fiber Materials
+Region: APAC | Country: China | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 87.5%, Defect Rate 1.62%, Compliance Score 81.1, Sustainability 62.9
+Volume: 470,242 units ordered, 416,060 delivered on time, 6,712 rejected. Total PO value $1,429,755.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Geopolitical tension flag, Audit overdue; compliance review, Currency volatility flag, Regulatory audit pending, Seasonal flood risk, Regulatory enforcement pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-034. Last Audit: 2023-08-27.
+
+SUPPLIER PROFILE: SUP-005 — Huabei Circuit Systems
+Region: APAC | Country: China | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 18 POs: OTD 93.7%, Defect Rate 0.94%, Compliance Score 90.2, Sustainability 84.2
+Volume: 130,131 units ordered, 122,140 delivered on time, 1,280 rejected. Total PO value $908,604.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Geopolitical tension flag, Tariff adjustment pending, Regulatory audit pending, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-088. Last Audit: 2023-06-25.
+
+SUPPLIER PROFILE: SUP-006 — Dongfeng Castings Co
+Region: APAC | Country: China | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.6%, Defect Rate 1.82%, Compliance Score 76.3, Sustainability 67.2
+Volume: 405,792 units ordered, 353,658 delivered on time, 7,250 rejected. Total PO value $2,186,462.
+Average Lead Time: 30 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Port congestion risk, Regulatory enforcement pending, Labour strike risk, Geopolitical tension flag, Audit overdue; compliance review, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-036. Last Audit: 2023-11-20.
+
+SUPPLIER PROFILE: SUP-007 — Longhua Polymer Works
+Region: APAC | Country: China | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 71.2%, Defect Rate 2.77%, Compliance Score 61.8, Sustainability 48.9
+Volume: 661,705 units ordered, 479,603 delivered on time, 16,823 rejected. Total PO value $7,102,925.
+Average Lead Time: 36 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Seasonal flood risk, Labour strike risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Port closure risk, Tariff adjustment pending, Audit overdue; compliance review.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-103. Last Audit: 2024-08-21.
+
+SUPPLIER PROFILE: SUP-008 — Shengda Pack Industries
+Region: APAC | Country: China | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 88.2%, Defect Rate 1.96%, Compliance Score 76.2, Sustainability 68.3
+Volume: 500,947 units ordered, 434,294 delivered on time, 10,059 rejected. Total PO value $884,286.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Export license risk, Regulatory audit pending, Labour strike risk, Seasonal flood risk, Typhoon season disruption, Regulatory enforcement pending, Port congestion risk, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-028. Last Audit: 2024-03-08.
+
+SUPPLIER PROFILE: SUP-009 — Tianhe Alloy Group
+Region: APAC | Country: China | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 87.0%, Defect Rate 1.88%, Compliance Score 81.4, Sustainability 62.8
+Volume: 418,387 units ordered, 365,610 delivered on time, 7,545 rejected. Total PO value $8,739,797.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001.
+Active Disruptions: Seasonal flood risk, Political instability flag, Regulatory audit pending, Geopolitical tension flag, Export license risk, Port congestion risk, Audit overdue; compliance review.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-106. Last Audit: 2023-12-15.
+
+SUPPLIER PROFILE: SUP-010 — Bohai Electronics
+Region: APAC | Country: China | Category: Electronic Components | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 71.3%, Defect Rate 3.40%, Compliance Score 62.1, Sustainability 42.8
+Volume: 509,364 units ordered, 368,048 delivered on time, 17,748 rejected. Total PO value $3,436,726.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Typhoon season disruption, Regulatory enforcement pending, Geopolitical tension flag, Labour strike risk, Tariff adjustment pending, Port congestion risk, Regulatory audit pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-002. Last Audit: 2024-01-18.
+
+SUPPLIER PROFILE: SUP-011 — Dravex Components India
+Region: APAC | Country: India | Category: Mechanical Components | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 72.3%, Defect Rate 3.27%, Compliance Score 65.7, Sustainability 45.1
+Volume: 653,857 units ordered, 479,579 delivered on time, 22,761 rejected. Total PO value $3,236,970.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Typhoon season disruption, Geopolitical tension flag, Audit overdue; compliance review, Port congestion risk, Port closure risk, Regulatory enforcement pending, Political instability flag, Regulatory audit pending, Seasonal flood risk.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-042. Last Audit: 2024-08-03.
+
+SUPPLIER PROFILE: SUP-012 — Bharat Precision Works
+Region: APAC | Country: India | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.8%, Defect Rate 1.59%, Compliance Score 80.5, Sustainability 63.1
+Volume: 434,842 units ordered, 372,349 delivered on time, 8,084 rejected. Total PO value $2,031,104.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Currency volatility flag, Seasonal flood risk, Political instability flag, Tariff adjustment pending, Export license risk, Audit overdue; compliance review.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-046. Last Audit: 2024-07-06.
+
+SUPPLIER PROFILE: SUP-013 — IndoTech Fab Ltd
+Region: APAC | Country: India | Category: Electronic Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.8%, Defect Rate 1.90%, Compliance Score 79.0, Sustainability 63.4
+Volume: 643,261 units ordered, 558,478 delivered on time, 11,672 rejected. Total PO value $3,752,327.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Seasonal flood risk, Geopolitical tension flag, Audit overdue; compliance review, Labour strike risk, Port congestion risk, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-042. Last Audit: 2023-01-22.
+
+SUPPLIER PROFILE: SUP-014 — Deccan Polymer Mfg
+Region: APAC | Country: India | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 73.2%, Defect Rate 2.65%, Compliance Score 61.1, Sustainability 45.4
+Volume: 596,660 units ordered, 433,342 delivered on time, 17,240 rejected. Total PO value $7,223,093.
+Average Lead Time: 38 days. Payment Terms: Net-30. Risk Level: Low.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Seasonal flood risk, Currency volatility flag, Port congestion risk, Tariff adjustment pending, Labour strike risk, Typhoon season disruption, Political instability flag, Regulatory enforcement pending, Geopolitical tension flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-080. Last Audit: 2024-05-12.
+
+SUPPLIER PROFILE: SUP-015 — Narmada Pack Solutions
+Region: APAC | Country: India | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.8%, Defect Rate 1.92%, Compliance Score 79.2, Sustainability 69.8
+Volume: 517,486 units ordered, 447,752 delivered on time, 9,345 rejected. Total PO value $1,013,910.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Geopolitical tension flag, Port closure risk, Regulatory audit pending, Currency volatility flag, Regulatory enforcement pending, Political instability flag, Port congestion risk, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-071. Last Audit: 2024-02-25.
+
+SUPPLIER PROFILE: SUP-016 — Konkan Textile Mills
+Region: APAC | Country: India | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.0%, Defect Rate 1.73%, Compliance Score 77.4, Sustainability 67.8
+Volume: 590,841 units ordered, 511,153 delivered on time, 10,042 rejected. Total PO value $2,363,911.
+Average Lead Time: 24 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Tariff adjustment pending, Seasonal flood risk, Port congestion risk, Export license risk, Political instability flag, Typhoon season disruption, Labour strike risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-085. Last Audit: 2024-03-08.
+
+SUPPLIER PROFILE: SUP-017 — Sahyadri Alloy Tech
+Region: APAC | Country: India | Category: Specialty Alloys | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 73.4%, Defect Rate 2.86%, Compliance Score 61.7, Sustainability 48.6
+Volume: 701,886 units ordered, 507,478 delivered on time, 20,746 rejected. Total PO value $16,178,107.
+Average Lead Time: 33 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Active Disruptions: Export license risk, Port congestion risk, Typhoon season disruption, Regulatory enforcement pending, Currency volatility flag, Port closure risk, Political instability flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-114. Last Audit: 2024-02-21.
+
+SUPPLIER PROFILE: SUP-018 — Deltaforge Vietnam
+Region: APAC | Country: Vietnam | Category: Mechanical Components | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 73.0%, Defect Rate 2.61%, Compliance Score 64.0, Sustainability 46.9
+Volume: 607,464 units ordered, 440,751 delivered on time, 16,670 rejected. Total PO value $3,060,090.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Port congestion risk, Tariff adjustment pending, Seasonal flood risk, Regulatory audit pending, Labour strike risk, Audit overdue; compliance review, Export license risk, Port closure risk.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-073. Last Audit: 2023-07-14.
+
+SUPPLIER PROFILE: SUP-019 — Saigon Precision Works
+Region: APAC | Country: Vietnam | Category: Electronic Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 87.1%, Defect Rate 1.55%, Compliance Score 76.8, Sustainability 68.4
+Volume: 521,532 units ordered, 457,078 delivered on time, 7,047 rejected. Total PO value $3,475,625.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Seasonal flood risk, Labour strike risk, Geopolitical tension flag, Typhoon season disruption, Regulatory audit pending, Port closure risk, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-040. Last Audit: 2023-03-24.
+
+SUPPLIER PROFILE: SUP-020 — MeKong Pack Co
+Region: APAC | Country: Vietnam | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 71.0%, Defect Rate 2.86%, Compliance Score 60.9, Sustainability 48.9
+Volume: 720,443 units ordered, 518,295 delivered on time, 20,893 rejected. Total PO value $1,312,165.
+Average Lead Time: 33 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Geopolitical tension flag, Port congestion risk, Typhoon season disruption, Regulatory enforcement pending, Export license risk, Currency volatility flag, Audit overdue; compliance review, Political instability flag, Regulatory audit pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-095. Last Audit: 2023-07-29.
+
+SUPPLIER PROFILE: SUP-021 — HanoiTex Industries
+Region: APAC | Country: Vietnam | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.0%, Defect Rate 1.72%, Compliance Score 80.1, Sustainability 65.2
+Volume: 494,963 units ordered, 421,558 delivered on time, 7,251 rejected. Total PO value $1,873,122.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Audit overdue; compliance review, Seasonal flood risk, Tariff adjustment pending, Port closure risk, Political instability flag, Regulatory audit pending, Currency volatility flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-023. Last Audit: 2023-03-17.
+
+SUPPLIER PROFILE: SUP-022 — DaNang Metal Works
+Region: APAC | Country: Vietnam | Category: Mechanical Components | Tier: Tier-3
+Aggregated Performance across 18 POs: OTD 72.5%, Defect Rate 2.89%, Compliance Score 61.3, Sustainability 49.3
+Volume: 612,645 units ordered, 445,454 delivered on time, 17,392 rejected. Total PO value $2,771,852.
+Average Lead Time: 34 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Typhoon season disruption, Regulatory enforcement pending, Port closure risk, Audit overdue; compliance review, Tariff adjustment pending, Currency volatility flag, Labour strike risk, Regulatory audit pending, Port congestion risk.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-101. Last Audit: 2024-07-21.
+
+SUPPLIER PROFILE: SUP-023 — Hanguk Circuit Works
+Region: APAC | Country: South Korea | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 18 POs: OTD 94.2%, Defect Rate 1.15%, Compliance Score 88.7, Sustainability 79.4
+Volume: 160,359 units ordered, 149,755 delivered on time, 1,945 rejected. Total PO value $1,110,894.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AEC-Q100, ISO9001.
+Missing Mandatory Certifications: RoHS.
+Active Disruptions: Regulatory audit pending, Audit overdue; compliance review, Tariff adjustment pending, Port congestion risk, Seasonal flood risk, Port closure risk.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-067. Last Audit: 2023-09-28.
+
+SUPPLIER PROFILE: SUP-024 — Seoultech Micro
+Region: APAC | Country: South Korea | Category: Electronic Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 86.1%, Defect Rate 1.83%, Compliance Score 81.5, Sustainability 66.7
+Volume: 557,435 units ordered, 471,801 delivered on time, 10,133 rejected. Total PO value $3,297,536.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Geopolitical tension flag, Export license risk, Port congestion risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Political instability flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-058. Last Audit: 2024-07-18.
+
+SUPPLIER PROFILE: SUP-025 — Koryo Alloy Systems
+Region: APAC | Country: South Korea | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 18 POs: OTD 94.3%, Defect Rate 1.05%, Compliance Score 87.1, Sustainability 84.4
+Volume: 152,138 units ordered, 143,016 delivered on time, 1,563 rejected. Total PO value $3,701,463.
+Average Lead Time: 26 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Currency volatility flag, Port congestion risk, Audit overdue; compliance review, Geopolitical tension flag, Regulatory audit pending.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-081. Last Audit: 2023-11-12.
+
+SUPPLIER PROFILE: SUP-026 — Hangang Steel Parts
+Region: APAC | Country: South Korea | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 85.5%, Defect Rate 1.98%, Compliance Score 78.8, Sustainability 67.4
+Volume: 473,273 units ordered, 401,496 delivered on time, 9,080 rejected. Total PO value $2,426,636.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Port congestion risk, Port closure risk, Seasonal flood risk, Geopolitical tension flag, Tariff adjustment pending, Typhoon season disruption, Labour strike risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-106. Last Audit: 2023-08-31.
+
+SUPPLIER PROFILE: SUP-027 — Busan Pack Corp
+Region: APAC | Country: South Korea | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 18 POs: OTD 88.2%, Defect Rate 1.98%, Compliance Score 81.7, Sustainability 68.7
+Volume: 418,907 units ordered, 373,526 delivered on time, 9,013 rejected. Total PO value $864,414.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Port closure risk, Tariff adjustment pending, Audit overdue; compliance review, Export license risk, Labour strike risk, Typhoon season disruption, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-014. Last Audit: 2023-06-13.
+
+SUPPLIER PROFILE: SUP-028 — Hokkaido Alloy Tech
+Region: APAC | Country: Japan | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 18 POs: OTD 94.1%, Defect Rate 0.97%, Compliance Score 88.4, Sustainability 83.6
+Volume: 182,307 units ordered, 171,891 delivered on time, 1,672 rejected. Total PO value $3,795,087.
+Average Lead Time: 22 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AS9100, ISO9001, NADCAP.
+Active Disruptions: Typhoon season disruption, Currency volatility flag, Audit overdue; compliance review, Regulatory audit pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-057. Last Audit: 2023-07-17.
+
+SUPPLIER PROFILE: SUP-029 — Kinki Precision Corp
+Region: APAC | Country: Japan | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.2%, Defect Rate 1.00%, Compliance Score 90.3, Sustainability 85.1
+Volume: 142,439 units ordered, 134,442 delivered on time, 1,471 rejected. Total PO value $864,667.
+Average Lead Time: 23 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Geopolitical tension flag, Tariff adjustment pending.
+POLICY FLAGS: Defect rate above tier max.
+Alternate Supplier: SUP-044. Last Audit: 2024-08-17.
+
+SUPPLIER PROFILE: SUP-030 — Osaka Polymer Systems
+Region: APAC | Country: Japan | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.8%, Defect Rate 0.90%, Compliance Score 88.9, Sustainability 83.8
+Volume: 130,215 units ordered, 123,691 delivered on time, 1,274 rejected. Total PO value $1,766,673.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Geopolitical tension flag, Seasonal flood risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-055. Last Audit: 2024-03-22.
+
+SUPPLIER PROFILE: SUP-031 — Sendai Mech Works
+Region: APAC | Country: Japan | Category: Mechanical Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.3%, Defect Rate 1.05%, Compliance Score 86.9, Sustainability 84.0
+Volume: 152,326 units ordered, 142,606 delivered on time, 1,397 rejected. Total PO value $703,130.
+Average Lead Time: 27 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Port congestion risk, Typhoon season disruption, Export license risk, Regulatory audit pending, Seasonal flood risk.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-111. Last Audit: 2023-11-04.
+
+SUPPLIER PROFILE: SUP-032 — Kyushu Textile Co
+Region: APAC | Country: Japan | Category: Industrial Textiles | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.2%, Defect Rate 0.78%, Compliance Score 88.7, Sustainability 85.4
+Volume: 117,528 units ordered, 108,997 delivered on time, 890 rejected. Total PO value $483,092.
+Average Lead Time: 29 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: ISO14001, ISO9001, OEKO-TEX.
+Active Disruptions: Geopolitical tension flag, Audit overdue; compliance review, Political instability flag, Port congestion risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-055. Last Audit: 2024-07-15.
+
+SUPPLIER PROFILE: SUP-033 — PrecisionForge Taiyuan
+Region: APAC | Country: Taiwan | Category: Mechanical Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.4%, Defect Rate 1.12%, Compliance Score 87.8, Sustainability 85.2
+Volume: 131,604 units ordered, 123,289 delivered on time, 1,442 rejected. Total PO value $591,164.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Tariff adjustment pending, Port congestion risk, Seasonal flood risk.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-019. Last Audit: 2023-03-28.
+
+SUPPLIER PROFILE: SUP-034 — Formosa Circuit Co
+Region: APAC | Country: Taiwan | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 92.6%, Defect Rate 1.05%, Compliance Score 91.1, Sustainability 81.1
+Volume: 146,705 units ordered, 135,692 delivered on time, 1,452 rejected. Total PO value $912,812.
+Average Lead Time: 29 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Regulatory enforcement pending, Typhoon season disruption, Audit overdue; compliance review, Geopolitical tension flag.
+POLICY FLAGS: OTD below tier threshold; Defect rate above tier max.
+Alternate Supplier: SUP-040. Last Audit: 2024-09-17.
+
+SUPPLIER PROFILE: SUP-035 — Yulon Alloy Mfg
+Region: APAC | Country: Taiwan | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.8%, Defect Rate 1.95%, Compliance Score 78.0, Sustainability 74.2
+Volume: 373,137 units ordered, 330,079 delivered on time, 6,712 rejected. Total PO value $7,576,864.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001.
+Active Disruptions: Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption, Port congestion risk, Regulatory audit pending, Port closure risk, Political instability flag, Geopolitical tension flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-036. Last Audit: 2023-08-13.
+
+SUPPLIER PROFILE: SUP-036 — Kaohsiung Pack Co
+Region: APAC | Country: Taiwan | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 84.7%, Defect Rate 1.68%, Compliance Score 78.4, Sustainability 72.7
+Volume: 512,713 units ordered, 432,662 delivered on time, 7,731 rejected. Total PO value $1,121,300.
+Average Lead Time: 24 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Political instability flag, Port closure risk, Geopolitical tension flag, Tariff adjustment pending, Regulatory enforcement pending, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-108. Last Audit: 2024-09-19.
+
+SUPPLIER PROFILE: SUP-037 — Straits Packaging Hub
+Region: APAC | Country: Singapore | Category: Packaging Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.4%, Defect Rate 0.96%, Compliance Score 92.1, Sustainability 83.6
+Volume: 149,167 units ordered, 139,291 delivered on time, 1,444 rejected. Total PO value $357,752.
+Average Lead Time: 22 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: ISO14001, ISO9001.
+Missing Mandatory Certifications: FSC.
+Active Disruptions: Political instability flag, Seasonal flood risk, Tariff adjustment pending, Geopolitical tension flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-029. Last Audit: 2024-05-11.
+
+SUPPLIER PROFILE: SUP-038 — SingaMold Tech
+Region: APAC | Country: Singapore | Category: Mechanical Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.7%, Defect Rate 0.78%, Compliance Score 87.4, Sustainability 83.1
+Volume: 114,411 units ordered, 108,350 delivered on time, 1,016 rejected. Total PO value $687,983.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Political instability flag, Tariff adjustment pending, Seasonal flood risk, Regulatory enforcement pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-068. Last Audit: 2023-08-08.
+
+SUPPLIER PROFILE: SUP-039 — Krungsri Moldtech
+Region: APAC | Country: Thailand | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.9%, Defect Rate 1.82%, Compliance Score 78.3, Sustainability 65.5
+Volume: 400,553 units ordered, 344,263 delivered on time, 7,156 rejected. Total PO value $2,033,808.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Geopolitical tension flag, Tariff adjustment pending, Seasonal flood risk, Audit overdue; compliance review, Regulatory audit pending, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-042. Last Audit: 2023-01-07.
+
+SUPPLIER PROFILE: SUP-040 — ChaoPhaya Pack
+Region: APAC | Country: Thailand | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.9%, Defect Rate 1.51%, Compliance Score 81.0, Sustainability 65.8
+Volume: 522,126 units ordered, 454,483 delivered on time, 7,370 rejected. Total PO value $1,059,384.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Regulatory audit pending, Tariff adjustment pending, Seasonal flood risk, Geopolitical tension flag, Port congestion risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-075. Last Audit: 2023-01-30.
+
+SUPPLIER PROFILE: SUP-041 — Archipelago PCB Corp
+Region: APAC | Country: Philippines | Category: Electronic Components | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 74.4%, Defect Rate 2.82%, Compliance Score 66.7, Sustainability 47.6
+Volume: 694,854 units ordered, 518,586 delivered on time, 18,079 rejected. Total PO value $4,402,102.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: RoHS.
+Active Disruptions: Labour strike risk, Export license risk, Audit overdue; compliance review, Typhoon season disruption, Port closure risk, Tariff adjustment pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-052. Last Audit: 2024-04-17.
+
+SUPPLIER PROFILE: SUP-042 — Visayas Textile Co
+Region: APAC | Country: Philippines | Category: Industrial Textiles | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 76.0%, Defect Rate 2.97%, Compliance Score 60.9, Sustainability 50.2
+Volume: 677,340 units ordered, 518,469 delivered on time, 19,205 rejected. Total PO value $2,723,403.
+Average Lead Time: 37 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Port congestion risk, Regulatory enforcement pending, Regulatory audit pending, Geopolitical tension flag, Currency volatility flag, Tariff adjustment pending, Export license risk, Port closure risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-033. Last Audit: 2023-01-20.
+
+SUPPLIER PROFILE: SUP-043 — Tasman Circuit Boards
+Region: APAC | Country: Australia | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.6%, Defect Rate 1.19%, Compliance Score 87.2, Sustainability 83.2
+Volume: 160,656 units ordered, 152,449 delivered on time, 2,040 rejected. Total PO value $1,162,467.
+Average Lead Time: 23 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Geopolitical tension flag, Tariff adjustment pending, Regulatory audit pending.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-074. Last Audit: 2023-04-28.
+
+SUPPLIER PROFILE: SUP-044 — Broken Hill Alloys
+Region: APAC | Country: Australia | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.8%, Defect Rate 0.55%, Compliance Score 89.4, Sustainability 86.6
+Volume: 114,233 units ordered, 107,205 delivered on time, 778 rejected. Total PO value $2,124,588.
+Average Lead Time: 23 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Geopolitical tension flag, Political instability flag, Seasonal flood risk, Port closure risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-002. Last Audit: 2023-07-23.
+
+SUPPLIER PROFILE: SUP-045 — Sibertek Molding
+Region: APAC | Country: Russia | Category: Mechanical Components | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.7%, Defect Rate 3.19%, Compliance Score 64.2, Sustainability 47.5
+Volume: 639,763 units ordered, 462,283 delivered on time, 20,977 rejected. Total PO value $3,126,937.
+Average Lead Time: 40 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Port closure risk, Geopolitical tension flag, Regulatory audit pending, Labour strike risk, Seasonal flood risk, Tariff adjustment pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-090. Last Audit: 2023-03-12.
+
+SUPPLIER PROFILE: SUP-046 — Krauss-Polymex GmbH
+Region: EMEA | Country: Germany | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.6%, Defect Rate 0.94%, Compliance Score 89.6, Sustainability 86.5
+Volume: 167,145 units ordered, 156,361 delivered on time, 1,608 rejected. Total PO value $1,934,117.
+Average Lead Time: 21 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Regulatory audit pending, Geopolitical tension flag, Seasonal flood risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-102. Last Audit: 2023-10-04.
+
+SUPPLIER PROFILE: SUP-047 — Rheinwerk Precision AG
+Region: EMEA | Country: Germany | Category: Mechanical Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.6%, Defect Rate 0.96%, Compliance Score 89.8, Sustainability 85.4
+Volume: 154,852 units ordered, 144,319 delivered on time, 1,502 rejected. Total PO value $672,371.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Geopolitical tension flag, Regulatory audit pending, Typhoon season disruption.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-044. Last Audit: 2024-04-20.
+
+SUPPLIER PROFILE: SUP-048 — Berliner Pack GmbH
+Region: EMEA | Country: Germany | Category: Packaging Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.9%, Defect Rate 0.76%, Compliance Score 89.9, Sustainability 80.8
+Volume: 143,356 units ordered, 135,225 delivered on time, 1,058 rejected. Total PO value $289,328.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: FSC, ISO14001, ISO9001.
+Active Disruptions: Port congestion risk, Export license risk, Regulatory enforcement pending, Port closure risk, Tariff adjustment pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-084. Last Audit: 2023-01-11.
+
+SUPPLIER PROFILE: SUP-049 — Munich Alloy Technik
+Region: EMEA | Country: Germany | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.5%, Defect Rate 0.89%, Compliance Score 90.9, Sustainability 83.8
+Volume: 143,299 units ordered, 136,013 delivered on time, 1,121 rejected. Total PO value $3,034,722.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AS9100, ISO9001, NADCAP.
+Active Disruptions: Port closure risk, Geopolitical tension flag, Labour strike risk, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-061. Last Audit: 2024-02-19.
+
+SUPPLIER PROFILE: SUP-050 — Dresdner Textilwerk
+Region: EMEA | Country: Germany | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.5%, Defect Rate 1.76%, Compliance Score 79.6, Sustainability 63.9
+Volume: 473,700 units ordered, 406,708 delivered on time, 8,598 rejected. Total PO value $1,890,840.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Port congestion risk, Regulatory audit pending, Political instability flag, Export license risk, Geopolitical tension flag, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-024. Last Audit: 2023-11-10.
+
+SUPPLIER PROFILE: SUP-051 — Toreval Electronics
+Region: EMEA | Country: France | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.7%, Defect Rate 0.74%, Compliance Score 89.7, Sustainability 83.6
+Volume: 151,403 units ordered, 140,142 delivered on time, 931 rejected. Total PO value $943,358.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Tariff adjustment pending, Port congestion risk, Audit overdue; compliance review, Currency volatility flag.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-011. Last Audit: 2023-07-18.
+
+SUPPLIER PROFILE: SUP-052 — Lyon Polymer SAS
+Region: EMEA | Country: France | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.3%, Defect Rate 0.91%, Compliance Score 87.9, Sustainability 81.6
+Volume: 119,392 units ordered, 111,257 delivered on time, 1,125 rejected. Total PO value $1,493,178.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Geopolitical tension flag, Regulatory enforcement pending, Port congestion risk, Export license risk, Tariff adjustment pending, Seasonal flood risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-069. Last Audit: 2023-01-13.
+
+SUPPLIER PROFILE: SUP-053 — Bordeaux Pack SAS
+Region: EMEA | Country: France | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.4%, Defect Rate 1.90%, Compliance Score 78.4, Sustainability 69.4
+Volume: 361,442 units ordered, 318,588 delivered on time, 6,381 rejected. Total PO value $703,615.
+Average Lead Time: 24 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: FSC, ISO14001, ISO9001.
+Active Disruptions: Labour strike risk, Geopolitical tension flag, Audit overdue; compliance review, Tariff adjustment pending, Typhoon season disruption, Seasonal flood risk, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-116. Last Audit: 2023-02-24.
+
+SUPPLIER PROFILE: SUP-054 — Lumivex Semiconductor NL
+Region: EMEA | Country: Netherlands | Category: Electronic Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.2%, Defect Rate 0.92%, Compliance Score 88.1, Sustainability 83.8
+Volume: 135,282 units ordered, 126,016 delivered on time, 1,169 rejected. Total PO value $922,977.
+Average Lead Time: 27 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: AEC-Q100, ISO9001, RoHS.
+Active Disruptions: Political instability flag, Port congestion risk, Labour strike risk, Regulatory audit pending, Export license risk, Tariff adjustment pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-038. Last Audit: 2024-03-29.
+
+SUPPLIER PROFILE: SUP-055 — Rotterdam Chem BV
+Region: EMEA | Country: Netherlands | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.2%, Defect Rate 0.78%, Compliance Score 90.8, Sustainability 82.7
+Volume: 142,597 units ordered, 131,538 delivered on time, 1,313 rejected. Total PO value $1,737,234.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Tariff adjustment pending, Port closure risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-083. Last Audit: 2023-03-25.
+
+SUPPLIER PROFILE: SUP-056 — Solveig Eco Packaging
+Region: EMEA | Country: Sweden | Category: Packaging Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.0%, Defect Rate 0.94%, Compliance Score 88.9, Sustainability 87.1
+Volume: 144,992 units ordered, 136,519 delivered on time, 1,376 rejected. Total PO value $306,239.
+Average Lead Time: 23 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: FSC, ISO14001, ISO9001.
+Active Disruptions: Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-093. Last Audit: 2023-08-28.
+
+SUPPLIER PROFILE: SUP-057 — Norrsken Textiles AB
+Region: EMEA | Country: Sweden | Category: Industrial Textiles | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.2%, Defect Rate 1.01%, Compliance Score 88.2, Sustainability 89.3
+Volume: 136,161 units ordered, 129,466 delivered on time, 1,270 rejected. Total PO value $509,746.
+Average Lead Time: 22 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: ISO14001, ISO9001, OEKO-TEX.
+Active Disruptions: Port congestion risk, Labour strike risk, Geopolitical tension flag, Currency volatility flag, Seasonal flood risk, Regulatory audit pending.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-047. Last Audit: 2023-03-03.
+
+SUPPLIER PROFILE: SUP-058 — Norbec Alloy Works
+Region: EMEA | Country: Norway | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.4%, Defect Rate 1.02%, Compliance Score 91.4, Sustainability 84.1
+Volume: 124,613 units ordered, 117,346 delivered on time, 1,345 rejected. Total PO value $2,735,907.
+Average Lead Time: 26 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AS9100, ISO14001, ISO9001.
+Missing Mandatory Certifications: NADCAP.
+Active Disruptions: Regulatory enforcement pending, Tariff adjustment pending, Seasonal flood risk, Political instability flag.
+POLICY FLAGS: Defect rate above tier max.
+Alternate Supplier: SUP-006. Last Audit: 2024-09-04.
+
+SUPPLIER PROFILE: SUP-059 — Fjord Polymer AS
+Region: EMEA | Country: Norway | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.3%, Defect Rate 0.97%, Compliance Score 88.5, Sustainability 85.1
+Volume: 109,098 units ordered, 101,337 delivered on time, 1,093 rejected. Total PO value $1,391,818.
+Average Lead Time: 21 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Port closure risk, Seasonal flood risk, Export license risk, Tariff adjustment pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-041. Last Audit: 2023-02-11.
+
+SUPPLIER PROFILE: SUP-060 — Nordloom Finland Oy
+Region: EMEA | Country: Finland | Category: Industrial Textiles | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.4%, Defect Rate 1.06%, Compliance Score 90.5, Sustainability 83.1
+Volume: 119,434 units ordered, 112,397 delivered on time, 1,205 rejected. Total PO value $406,982.
+Average Lead Time: 26 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, OEKO-TEX.
+Active Disruptions: Geopolitical tension flag, Tariff adjustment pending, Seasonal flood risk, Audit overdue; compliance review.
+POLICY FLAGS: Defect rate above tier max.
+Alternate Supplier: SUP-005. Last Audit: 2023-12-08.
+
+SUPPLIER PROFILE: SUP-061 — Helsinki Pack Oy
+Region: EMEA | Country: Finland | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 84.9%, Defect Rate 1.54%, Compliance Score 76.8, Sustainability 64.4
+Volume: 433,751 units ordered, 368,287 delivered on time, 5,786 rejected. Total PO value $694,216.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Seasonal flood risk, Regulatory audit pending, Typhoon season disruption, Port closure risk, Regulatory enforcement pending, Port congestion risk, Political instability flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-066. Last Audit: 2023-11-19.
+
+SUPPLIER PROFILE: SUP-062 — Borealis Composites
+Region: EMEA | Country: Denmark | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.6%, Defect Rate 0.94%, Compliance Score 88.6, Sustainability 85.9
+Volume: 145,566 units ordered, 136,122 delivered on time, 1,335 rejected. Total PO value $1,699,860.
+Average Lead Time: 22 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Port closure risk, Geopolitical tension flag, Port congestion risk, Typhoon season disruption, Regulatory audit pending, Currency volatility flag.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-013. Last Audit: 2024-03-28.
+
+SUPPLIER PROFILE: SUP-063 — Elsinor Pack AS
+Region: EMEA | Country: Denmark | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.8%, Defect Rate 1.85%, Compliance Score 82.9, Sustainability 67.2
+Volume: 413,223 units ordered, 368,171 delivered on time, 7,520 rejected. Total PO value $914,051.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Political instability flag, Regulatory audit pending, Regulatory enforcement pending, Audit overdue; compliance review, Port congestion risk, Tariff adjustment pending, Geopolitical tension flag, Typhoon season disruption.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-038. Last Audit: 2024-07-18.
+
+SUPPLIER PROFILE: SUP-064 — Ostwind Composites AG
+Region: EMEA | Country: Austria | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.6%, Defect Rate 1.08%, Compliance Score 89.8, Sustainability 85.0
+Volume: 120,087 units ordered, 114,028 delivered on time, 1,442 rejected. Total PO value $1,402,261.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Typhoon season disruption, Regulatory audit pending, Tariff adjustment pending, Currency volatility flag, Geopolitical tension flag, Regulatory enforcement pending.
+POLICY FLAGS: Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-014. Last Audit: 2024-05-09.
+
+SUPPLIER PROFILE: SUP-065 — Wiener Alloy GmbH
+Region: EMEA | Country: Austria | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.2%, Defect Rate 1.71%, Compliance Score 80.8, Sustainability 63.7
+Volume: 342,216 units ordered, 294,154 delivered on time, 5,972 rejected. Total PO value $8,141,932.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Port congestion risk, Typhoon season disruption, Geopolitical tension flag, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-048. Last Audit: 2024-06-03.
+
+SUPPLIER PROFILE: SUP-066 — Valdoro Special Alloys
+Region: EMEA | Country: Italy | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.5%, Defect Rate 0.88%, Compliance Score 88.5, Sustainability 84.6
+Volume: 123,225 units ordered, 115,946 delivered on time, 1,004 rejected. Total PO value $2,790,200.
+Average Lead Time: 28 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, NADCAP.
+Active Disruptions: Typhoon season disruption, Port closure risk, Port congestion risk, Audit overdue; compliance review, Regulatory audit pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-048. Last Audit: 2023-11-26.
+
+SUPPLIER PROFILE: SUP-067 — Braccio Metalli SpA
+Region: EMEA | Country: Italy | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.3%, Defect Rate 1.79%, Compliance Score 78.0, Sustainability 68.4
+Volume: 540,266 units ordered, 468,615 delivered on time, 10,110 rejected. Total PO value $9,625,791.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Regulatory audit pending, Currency volatility flag, Port congestion risk, Audit overdue; compliance review, Geopolitical tension flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-116. Last Audit: 2023-06-05.
+
+SUPPLIER PROFILE: SUP-068 — Milano Textil Srl
+Region: EMEA | Country: Italy | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 83.4%, Defect Rate 1.79%, Compliance Score 79.0, Sustainability 68.2
+Volume: 444,970 units ordered, 368,341 delivered on time, 7,847 rejected. Total PO value $1,701,984.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Geopolitical tension flag, Port congestion risk, Port closure risk, Tariff adjustment pending, Export license risk, Labour strike risk, Seasonal flood risk, Currency volatility flag, Typhoon season disruption.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-087. Last Audit: 2023-06-08.
+
+SUPPLIER PROFILE: SUP-069 — Ibervex Quimica SL
+Region: EMEA | Country: Spain | Category: Raw Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.6%, Defect Rate 1.69%, Compliance Score 78.9, Sustainability 62.8
+Volume: 402,038 units ordered, 359,265 delivered on time, 6,297 rejected. Total PO value $5,194,200.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, REACH.
+Active Disruptions: Seasonal flood risk, Tariff adjustment pending, Audit overdue; compliance review, Regulatory audit pending, Port congestion risk, Geopolitical tension flag, Labour strike risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-002. Last Audit: 2024-05-14.
+
+SUPPLIER PROFILE: SUP-070 — Catalan Pack SA
+Region: EMEA | Country: Spain | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.9%, Defect Rate 1.82%, Compliance Score 77.9, Sustainability 69.1
+Volume: 402,747 units ordered, 351,290 delivered on time, 7,044 rejected. Total PO value $733,839.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Port closure risk, Port congestion risk, Currency volatility flag, Regulatory audit pending, Geopolitical tension flag, Regulatory enforcement pending, Labour strike risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-052. Last Audit: 2023-06-20.
+
+SUPPLIER PROFILE: SUP-071 — Ferralux Gulf FZE
+Region: EMEA | Country: UAE | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.9%, Defect Rate 1.84%, Compliance Score 79.2, Sustainability 67.9
+Volume: 419,478 units ordered, 369,886 delivered on time, 8,396 rejected. Total PO value $9,525,327.
+Average Lead Time: 22 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: ISO14001, ISO9001.
+Active Disruptions: Port closure risk, Regulatory audit pending, Currency volatility flag, Labour strike risk, Regulatory enforcement pending, Tariff adjustment pending, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-028. Last Audit: 2023-06-29.
+
+SUPPLIER PROFILE: SUP-072 — Almaral Steel FZC
+Region: EMEA | Country: UAE | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.7%, Defect Rate 1.74%, Compliance Score 79.9, Sustainability 65.4
+Volume: 446,079 units ordered, 382,650 delivered on time, 8,560 rejected. Total PO value $9,330,114.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001.
+Active Disruptions: Port congestion risk, Political instability flag, Regulatory audit pending, Currency volatility flag, Geopolitical tension flag, Audit overdue; compliance review, Tariff adjustment pending, Regulatory enforcement pending, Port closure risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-042. Last Audit: 2023-10-22.
+
+SUPPLIER PROFILE: SUP-073 — Dubai Pack FZE
+Region: EMEA | Country: UAE | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.7%, Defect Rate 1.84%, Compliance Score 82.5, Sustainability 68.9
+Volume: 574,572 units ordered, 499,530 delivered on time, 10,499 rejected. Total PO value $1,238,050.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Political instability flag, Tariff adjustment pending, Port congestion risk, Export license risk, Typhoon season disruption, Regulatory audit pending, Port closure risk, Geopolitical tension flag, Regulatory enforcement pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-007. Last Audit: 2023-08-31.
+
+SUPPLIER PROFILE: SUP-074 — Novex Fab Polska
+Region: EMEA | Country: Poland | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 88.4%, Defect Rate 1.96%, Compliance Score 75.9, Sustainability 69.5
+Volume: 457,716 units ordered, 409,801 delivered on time, 8,945 rejected. Total PO value $2,004,703.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Port congestion risk, Typhoon season disruption, Currency volatility flag, Export license risk, Political instability flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-081. Last Audit: 2023-08-24.
+
+SUPPLIER PROFILE: SUP-075 — Vistula Pack Sp
+Region: EMEA | Country: Poland | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.5%, Defect Rate 3.20%, Compliance Score 62.8, Sustainability 47.5
+Volume: 458,480 units ordered, 334,994 delivered on time, 14,138 rejected. Total PO value $1,177,759.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Regulatory enforcement pending, Port closure risk, Regulatory audit pending, Tariff adjustment pending, Audit overdue; compliance review, Geopolitical tension flag, Currency volatility flag, Seasonal flood risk, Export license risk, Typhoon season disruption, Labour strike risk.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-080. Last Audit: 2023-05-15.
+
+SUPPLIER PROFILE: SUP-076 — BalticPrint OU
+Region: EMEA | Country: Estonia | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.8%, Defect Rate 1.93%, Compliance Score 78.8, Sustainability 68.7
+Volume: 505,134 units ordered, 435,739 delivered on time, 9,640 rejected. Total PO value $1,192,267.
+Average Lead Time: 30 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Geopolitical tension flag, Export license risk, Typhoon season disruption, Tariff adjustment pending, Regulatory enforcement pending, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-067. Last Audit: 2024-05-08.
+
+SUPPLIER PROFILE: SUP-077 — Kovalev Metalburg
+Region: EMEA | Country: Czechia | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.4%, Defect Rate 1.45%, Compliance Score 80.7, Sustainability 66.3
+Volume: 438,811 units ordered, 378,687 delivered on time, 7,022 rejected. Total PO value $2,307,547.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Geopolitical tension flag, Export license risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-048. Last Audit: 2024-01-10.
+
+SUPPLIER PROFILE: SUP-078 — Varna Electronics EAD
+Region: EMEA | Country: Bulgaria | Category: Electronic Components | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 74.4%, Defect Rate 2.64%, Compliance Score 64.1, Sustainability 43.6
+Volume: 587,632 units ordered, 445,190 delivered on time, 16,406 rejected. Total PO value $4,647,914.
+Average Lead Time: 35 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Port congestion risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Labour strike risk, Tariff adjustment pending, Typhoon season disruption.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-092. Last Audit: 2023-01-26.
+
+SUPPLIER PROFILE: SUP-079 — Helios Pack Greece
+Region: EMEA | Country: Greece | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 75.9%, Defect Rate 2.71%, Compliance Score 62.4, Sustainability 45.6
+Volume: 640,718 units ordered, 485,943 delivered on time, 16,630 rejected. Total PO value $1,287,024.
+Average Lead Time: 38 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: FSC.
+Active Disruptions: Labour strike risk, Currency volatility flag, Audit overdue; compliance review, Export license risk, Regulatory enforcement pending, Geopolitical tension flag, Port congestion risk, Typhoon season disruption, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-002. Last Audit: 2023-04-10.
+
+SUPPLIER PROFILE: SUP-080 — Maghreb Castworks
+Region: EMEA | Country: Morocco | Category: Mechanical Components | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.5%, Defect Rate 2.85%, Compliance Score 59.9, Sustainability 45.5
+Volume: 668,776 units ordered, 488,484 delivered on time, 19,135 rejected. Total PO value $3,332,741.
+Average Lead Time: 33 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: IATF16949.
+Active Disruptions: Tariff adjustment pending, Regulatory enforcement pending, Labour strike risk, Export license risk, Typhoon season disruption, Port closure risk, Currency volatility flag, Geopolitical tension flag, Audit overdue; compliance review.
+POLICY FLAGS: OTD below tier threshold; Compliance below tier minimum; Supplier Watch List (compliance < 60).
+Alternate Supplier: SUP-048. Last Audit: 2024-05-16.
+
+SUPPLIER PROFILE: SUP-081 — Lisbon Polymer Lda
+Region: EMEA | Country: Portugal | Category: Raw Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.3%, Defect Rate 2.06%, Compliance Score 78.1, Sustainability 65.5
+Volume: 473,388 units ordered, 414,786 delivered on time, 9,964 rejected. Total PO value $6,208,223.
+Average Lead Time: 24 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, REACH.
+Active Disruptions: Regulatory enforcement pending, Port congestion risk, Geopolitical tension flag, Seasonal flood risk, Political instability flag, Export license risk, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-053. Last Audit: 2024-01-03.
+
+SUPPLIER PROFILE: SUP-082 — Veltara Packing Solutions
+Region: LATAM | Country: Brazil | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.3%, Defect Rate 1.56%, Compliance Score 79.9, Sustainability 71.1
+Volume: 412,852 units ordered, 352,913 delivered on time, 5,866 rejected. Total PO value $916,687.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Regulatory enforcement pending, Tariff adjustment pending, Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Currency volatility flag, Port congestion risk, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-067. Last Audit: 2024-07-21.
+
+SUPPLIER PROFILE: SUP-083 — Sao Paulo Polymer
+Region: LATAM | Country: Brazil | Category: Raw Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.9%, Defect Rate 1.87%, Compliance Score 82.6, Sustainability 66.4
+Volume: 451,924 units ordered, 390,316 delivered on time, 9,760 rejected. Total PO value $5,124,519.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Regulatory enforcement pending, Seasonal flood risk, Geopolitical tension flag, Port closure risk, Audit overdue; compliance review, Typhoon season disruption, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-037. Last Audit: 2023-04-23.
+
+SUPPLIER PROFILE: SUP-084 — Recife Textiles SA
+Region: LATAM | Country: Brazil | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.8%, Defect Rate 1.73%, Compliance Score 77.2, Sustainability 68.0
+Volume: 374,187 units ordered, 321,823 delivered on time, 6,115 rejected. Total PO value $1,086,570.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Port closure risk, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption, Port congestion risk, Regulatory enforcement pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-036. Last Audit: 2024-05-02.
+
+SUPPLIER PROFILE: SUP-085 — Minas Gerais Alloys
+Region: LATAM | Country: Brazil | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 84.7%, Defect Rate 2.00%, Compliance Score 80.4, Sustainability 66.5
+Volume: 402,961 units ordered, 342,741 delivered on time, 8,164 rejected. Total PO value $8,225,174.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001.
+Active Disruptions: Seasonal flood risk, Regulatory audit pending, Typhoon season disruption, Currency volatility flag, Labour strike risk, Port congestion risk, Geopolitical tension flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-008. Last Audit: 2023-03-04.
+
+SUPPLIER PROFILE: SUP-086 — Tecovar Industrial Textiles
+Region: LATAM | Country: Mexico | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.7%, Defect Rate 1.92%, Compliance Score 82.2, Sustainability 63.9
+Volume: 504,362 units ordered, 433,986 delivered on time, 9,572 rejected. Total PO value $1,958,108.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Typhoon season disruption, Currency volatility flag, Port congestion risk, Export license risk, Geopolitical tension flag, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-095. Last Audit: 2024-08-22.
+
+SUPPLIER PROFILE: SUP-087 — Guadalajara Mold Co
+Region: LATAM | Country: Mexico | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 84.8%, Defect Rate 2.06%, Compliance Score 81.6, Sustainability 65.4
+Volume: 395,034 units ordered, 334,301 delivered on time, 8,338 rejected. Total PO value $2,136,678.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Tariff adjustment pending, Port congestion risk, Geopolitical tension flag, Typhoon season disruption.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-055. Last Audit: 2024-04-07.
+
+SUPPLIER PROFILE: SUP-088 — Monterrey Pack SA
+Region: LATAM | Country: Mexico | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.0%, Defect Rate 1.89%, Compliance Score 77.1, Sustainability 67.1
+Volume: 553,917 units ordered, 480,500 delivered on time, 10,169 rejected. Total PO value $1,022,513.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Regulatory audit pending, Port congestion risk, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption, Seasonal flood risk, Port closure risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-060. Last Audit: 2023-04-04.
+
+SUPPLIER PROFILE: SUP-089 — Yucatan Polymer Mfg
+Region: LATAM | Country: Mexico | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.3%, Defect Rate 3.08%, Compliance Score 64.5, Sustainability 49.2
+Volume: 711,229 units ordered, 522,368 delivered on time, 22,379 rejected. Total PO value $8,442,198.
+Average Lead Time: 34 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Port closure risk, Labour strike risk, Currency volatility flag, Geopolitical tension flag, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-019. Last Audit: 2023-10-22.
+
+SUPPLIER PROFILE: SUP-090 — Plataforma Metales SA
+Region: LATAM | Country: Argentina | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.9%, Defect Rate 3.43%, Compliance Score 65.2, Sustainability 49.1
+Volume: 648,452 units ordered, 489,736 delivered on time, 21,928 rejected. Total PO value $8,108,557.
+Average Lead Time: 35 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Export license risk, Seasonal flood risk, Port closure risk, Labour strike risk, Audit overdue; compliance review, Regulatory enforcement pending, Political instability flag, Regulatory audit pending, Geopolitical tension flag, Currency volatility flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-072. Last Audit: 2024-03-15.
+
+SUPPLIER PROFILE: SUP-091 — Patagonia Alloys SRL
+Region: LATAM | Country: Argentina | Category: Specialty Alloys | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.1%, Defect Rate 3.12%, Compliance Score 64.1, Sustainability 47.2
+Volume: 667,263 units ordered, 478,094 delivered on time, 19,883 rejected. Total PO value $13,980,887.
+Average Lead Time: 30 days. Payment Terms: Net-30. Risk Level: Low.
+Certifications Held: ISO9001.
+Active Disruptions: Seasonal flood risk, Labour strike risk, Audit overdue; compliance review, Tariff adjustment pending, Export license risk, Geopolitical tension flag, Regulatory audit pending, Currency volatility flag, Political instability flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-020. Last Audit: 2023-05-27.
+
+SUPPLIER PROFILE: SUP-092 — Buenos Aires Pack
+Region: LATAM | Country: Argentina | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.4%, Defect Rate 2.52%, Compliance Score 59.2, Sustainability 49.6
+Volume: 696,859 units ordered, 504,004 delivered on time, 17,435 rejected. Total PO value $1,439,440.
+Average Lead Time: 36 days. Payment Terms: Net-30. Risk Level: Low.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: FSC.
+Active Disruptions: Port congestion risk, Regulatory audit pending, Audit overdue; compliance review, Labour strike risk, Regulatory enforcement pending, Seasonal flood risk, Port closure risk, Export license risk, Typhoon season disruption.
+POLICY FLAGS: OTD below tier threshold; Compliance below tier minimum; Supplier Watch List (compliance < 60).
+Alternate Supplier: SUP-016. Last Audit: 2023-02-23.
+
+SUPPLIER PROFILE: SUP-093 — Andino Fiber Corp
+Region: LATAM | Country: Colombia | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.5%, Defect Rate 1.94%, Compliance Score 78.7, Sustainability 62.4
+Volume: 499,089 units ordered, 435,672 delivered on time, 9,835 rejected. Total PO value $1,682,977.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Regulatory audit pending, Political instability flag, Tariff adjustment pending, Seasonal flood risk, Audit overdue; compliance review, Currency volatility flag, Port congestion risk, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-074. Last Audit: 2024-03-16.
+
+SUPPLIER PROFILE: SUP-094 — Bogota Pack Ltda
+Region: LATAM | Country: Colombia | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 71.0%, Defect Rate 3.08%, Compliance Score 61.6, Sustainability 44.8
+Volume: 577,862 units ordered, 411,607 delivered on time, 17,865 rejected. Total PO value $1,121,221.
+Average Lead Time: 32 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Labour strike risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Port closure risk, Typhoon season disruption, Political instability flag, Audit overdue; compliance review, Geopolitical tension flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-005. Last Audit: 2023-05-21.
+
+SUPPLIER PROFILE: SUP-095 — Cerromax Mineria
+Region: LATAM | Country: Peru | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.4%, Defect Rate 3.03%, Compliance Score 65.4, Sustainability 46.9
+Volume: 636,134 units ordered, 453,886 delivered on time, 20,109 rejected. Total PO value $7,195,952.
+Average Lead Time: 35 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Audit overdue; compliance review, Port closure risk, Port congestion risk, Tariff adjustment pending, Regulatory audit pending, Regulatory enforcement pending, Political instability flag, Seasonal flood risk.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-105. Last Audit: 2023-02-13.
+
+SUPPLIER PROFILE: SUP-096 — Lima Polymer SA
+Region: LATAM | Country: Peru | Category: Raw Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 73.1%, Defect Rate 2.53%, Compliance Score 63.5, Sustainability 48.4
+Volume: 678,697 units ordered, 493,116 delivered on time, 16,200 rejected. Total PO value $8,457,944.
+Average Lead Time: 37 days. Payment Terms: Net-30. Risk Level: High.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Audit overdue; compliance review, Port closure risk, Typhoon season disruption, Export license risk, Regulatory enforcement pending, Labour strike risk, Currency volatility flag, Geopolitical tension flag, Regulatory audit pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-002. Last Audit: 2024-01-06.
+
+SUPPLIER PROFILE: SUP-097 — Amapola Fibras
+Region: LATAM | Country: Chile | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.5%, Defect Rate 1.89%, Compliance Score 76.0, Sustainability 65.9
+Volume: 497,792 units ordered, 432,284 delivered on time, 8,360 rejected. Total PO value $1,840,661.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Regulatory enforcement pending, Regulatory audit pending, Political instability flag, Labour strike risk, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-024. Last Audit: 2024-06-06.
+
+SUPPLIER PROFILE: SUP-098 — Cobre del Sur SA
+Region: LATAM | Country: Chile | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 88.5%, Defect Rate 1.76%, Compliance Score 80.2, Sustainability 63.8
+Volume: 305,408 units ordered, 268,111 delivered on time, 5,173 rejected. Total PO value $6,733,949.
+Average Lead Time: 29 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001.
+Active Disruptions: Seasonal flood risk, Port closure risk, Regulatory audit pending, Geopolitical tension flag, Audit overdue; compliance review, Tariff adjustment pending, Port congestion risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-060. Last Audit: 2023-07-01.
+
+SUPPLIER PROFILE: SUP-099 — Santiago Pack Corp
+Region: LATAM | Country: Chile | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.0%, Defect Rate 1.70%, Compliance Score 80.4, Sustainability 59.7
+Volume: 461,666 units ordered, 394,952 delivered on time, 7,992 rejected. Total PO value $959,031.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Tariff adjustment pending, Port congestion risk, Currency volatility flag, Geopolitical tension flag, Export license risk, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-108. Last Audit: 2023-11-07.
+
+SUPPLIER PROFILE: SUP-100 — Orinoco Pack SAPI
+Region: LATAM | Country: Venezuela | Category: Packaging Materials | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 72.3%, Defect Rate 2.80%, Compliance Score 62.6, Sustainability 49.6
+Volume: 655,560 units ordered, 477,945 delivered on time, 18,693 rejected. Total PO value $1,345,068.
+Average Lead Time: 37 days. Payment Terms: Net-30. Risk Level: Low.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: FSC.
+Active Disruptions: Audit overdue; compliance review, Political instability flag, Currency volatility flag, Labour strike risk, Export license risk, Seasonal flood risk, Geopolitical tension flag, Tariff adjustment pending, Regulatory audit pending, Typhoon season disruption.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-067. Last Audit: 2024-08-31.
+
+SUPPLIER PROFILE: SUP-101 — Quetzal Textiles
+Region: LATAM | Country: Guatemala | Category: Industrial Textiles | Tier: Tier-3
+Aggregated Performance across 17 POs: OTD 75.2%, Defect Rate 2.76%, Compliance Score 61.8, Sustainability 41.2
+Volume: 589,084 units ordered, 446,120 delivered on time, 15,812 rejected. Total PO value $2,193,533.
+Average Lead Time: 35 days. Payment Terms: Net-30. Risk Level: Medium.
+Certifications Held: ISO9001.
+Missing Mandatory Certifications: OEKO-TEX.
+Active Disruptions: Seasonal flood risk, Port congestion risk, Audit overdue; compliance review, Regulatory enforcement pending, Labour strike risk, Currency volatility flag, Export license risk, Typhoon season disruption, Political instability flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-043. Last Audit: 2023-03-28.
+
+SUPPLIER PROFILE: SUP-102 — Crestline Chemical Supply
+Region: nan | Country: USA | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.7%, Defect Rate 0.93%, Compliance Score 91.5, Sustainability 84.3
+Volume: 146,494 units ordered, 136,838 delivered on time, 1,258 rejected. Total PO value $1,578,039.
+Average Lead Time: 30 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, OSHA.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-036. Last Audit: 2023-12-13.
+
+SUPPLIER PROFILE: SUP-103 — Fenwick Alloy Solutions
+Region: nan | Country: USA | Category: Specialty Alloys | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.0%, Defect Rate 0.96%, Compliance Score 88.6, Sustainability 81.8
+Volume: 134,654 units ordered, 125,986 delivered on time, 1,306 rejected. Total PO value $2,944,012.
+Average Lead Time: 27 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: AS9100, ISO9001, NADCAP.
+Active Disruptions: Port congestion risk, Regulatory audit pending, Labour strike risk, Tariff adjustment pending.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-099. Last Audit: 2023-03-25.
+
+SUPPLIER PROFILE: SUP-104 — Ridgecroft Textiles
+Region: nan | Country: USA | Category: Industrial Textiles | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.0%, Defect Rate 0.84%, Compliance Score 89.5, Sustainability 79.5
+Volume: 139,704 units ordered, 131,012 delivered on time, 1,016 rejected. Total PO value $487,220.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: ISO9001, OEKO-TEX, OSHA.
+Active Disruptions: Port closure risk, Tariff adjustment pending, Seasonal flood risk, Port congestion risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-071. Last Audit: 2024-06-23.
+
+SUPPLIER PROFILE: SUP-105 — Lakeshore Components
+Region: nan | Country: USA | Category: Mechanical Components | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 94.8%, Defect Rate 0.81%, Compliance Score 88.6, Sustainability 81.1
+Volume: 116,701 units ordered, 110,968 delivered on time, 907 rejected. Total PO value $576,320.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001, OSHA.
+Active Disruptions: Port congestion risk, Seasonal flood risk, Typhoon season disruption, Regulatory audit pending, Geopolitical tension flag.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-018. Last Audit: 2023-03-21.
+
+SUPPLIER PROFILE: SUP-106 — BlueMesa Polymers
+Region: nan | Country: USA | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 93.8%, Defect Rate 0.93%, Compliance Score 88.9, Sustainability 83.8
+Volume: 134,486 units ordered, 127,441 delivered on time, 1,425 rejected. Total PO value $1,758,415.
+Average Lead Time: 24 days. Payment Terms: Net-60. Risk Level: Low.
+Certifications Held: ISO14001, ISO9001, OSHA.
+Missing Mandatory Certifications: REACH.
+Active Disruptions: Seasonal flood risk, Geopolitical tension flag, Port closure risk.
+POLICY FLAGS: Compliance below tier minimum.
+Alternate Supplier: SUP-067. Last Audit: 2023-06-16.
+
+SUPPLIER PROFILE: SUP-107 — Cascade Pack Corp
+Region: nan | Country: USA | Category: Packaging Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 92.8%, Defect Rate 0.90%, Compliance Score 91.1, Sustainability 84.8
+Volume: 106,994 units ordered, 98,829 delivered on time, 1,101 rejected. Total PO value $224,798.
+Average Lead Time: 27 days. Payment Terms: Net-60. Risk Level: High.
+Certifications Held: FSC, ISO14001, ISO9001.
+Active Disruptions: Regulatory enforcement pending, Port closure risk, Currency volatility flag, Port congestion risk, Geopolitical tension flag, Regulatory audit pending, Tariff adjustment pending.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-070. Last Audit: 2023-08-28.
+
+SUPPLIER PROFILE: SUP-108 — Appalachian Alloys
+Region: nan | Country: USA | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 88.1%, Defect Rate 1.82%, Compliance Score 77.6, Sustainability 69.4
+Volume: 453,710 units ordered, 399,428 delivered on time, 8,015 rejected. Total PO value $10,062,322.
+Average Lead Time: 23 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Regulatory enforcement pending, Seasonal flood risk, Regulatory audit pending, Audit overdue; compliance review, Geopolitical tension flag, Export license risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-091. Last Audit: 2024-05-29.
+
+SUPPLIER PROFILE: SUP-109 — Gulf Coast Mech
+Region: nan | Country: USA | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.7%, Defect Rate 1.92%, Compliance Score 76.5, Sustainability 65.4
+Volume: 550,969 units ordered, 474,683 delivered on time, 10,645 rejected. Total PO value $2,815,563.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Tariff adjustment pending, Export license risk, Typhoon season disruption, Currency volatility flag, Seasonal flood risk, Political instability flag.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-085. Last Audit: 2023-03-27.
+
+SUPPLIER PROFILE: SUP-110 — Texarkana Fiber Inc
+Region: nan | Country: USA | Category: Industrial Textiles | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.5%, Defect Rate 1.81%, Compliance Score 78.3, Sustainability 62.7
+Volume: 435,813 units ordered, 372,640 delivered on time, 7,487 rejected. Total PO value $1,523,184.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: High.
+Certifications Held: ISO9001, OEKO-TEX.
+Active Disruptions: Labour strike risk, Regulatory audit pending, Port congestion risk, Currency volatility flag, Tariff adjustment pending, Seasonal flood risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-048. Last Audit: 2024-05-29.
+
+SUPPLIER PROFILE: SUP-111 — Ohio Valley Electronics
+Region: nan | Country: USA | Category: Electronic Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.1%, Defect Rate 1.86%, Compliance Score 78.9, Sustainability 71.4
+Volume: 405,973 units ordered, 350,052 delivered on time, 8,597 rejected. Total PO value $2,733,842.
+Average Lead Time: 28 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, RoHS.
+Active Disruptions: Geopolitical tension flag, Audit overdue; compliance review, Seasonal flood risk, Regulatory audit pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-013. Last Audit: 2024-04-28.
+
+SUPPLIER PROFILE: SUP-112 — Maplewood Polymer Corp
+Region: nan | Country: Canada | Category: Raw Materials | Tier: Tier-1
+Aggregated Performance across 17 POs: OTD 92.3%, Defect Rate 1.07%, Compliance Score 87.6, Sustainability 82.9
+Volume: 83,102 units ordered, 77,488 delivered on time, 790 rejected. Total PO value $953,228.
+Average Lead Time: 25 days. Payment Terms: Net-60. Risk Level: Medium.
+Certifications Held: ISO14001, ISO9001, REACH.
+Active Disruptions: Geopolitical tension flag, Regulatory audit pending, Port congestion risk, Tariff adjustment pending.
+POLICY FLAGS: OTD below tier threshold; Defect rate above tier max; Compliance below tier minimum.
+Alternate Supplier: SUP-074. Last Audit: 2023-10-23.
+
+SUPPLIER PROFILE: SUP-113 — Pinnacle Resin Co
+Region: nan | Country: Canada | Category: Raw Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 84.0%, Defect Rate 1.49%, Compliance Score 82.7, Sustainability 66.0
+Volume: 491,169 units ordered, 411,656 delivered on time, 7,462 rejected. Total PO value $5,909,011.
+Average Lead Time: 25 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: ISO9001, REACH.
+Active Disruptions: Seasonal flood risk, Currency volatility flag, Port congestion risk, Typhoon season disruption, Geopolitical tension flag.
+POLICY FLAGS: OTD below tier threshold.
+Alternate Supplier: SUP-066. Last Audit: 2024-06-11.
+
+SUPPLIER PROFILE: SUP-114 — Rockies Pack Inc
+Region: nan | Country: Canada | Category: Packaging Materials | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 86.1%, Defect Rate 1.90%, Compliance Score 77.8, Sustainability 72.0
+Volume: 408,457 units ordered, 353,631 delivered on time, 8,683 rejected. Total PO value $859,436.
+Average Lead Time: 26 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: FSC, ISO9001.
+Active Disruptions: Geopolitical tension flag, Seasonal flood risk, Regulatory audit pending, Audit overdue; compliance review, Port congestion risk, Port closure risk.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-066. Last Audit: 2024-06-22.
+
+SUPPLIER PROFILE: SUP-115 — Caribou Alloy Works
+Region: nan | Country: Canada | Category: Specialty Alloys | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 87.0%, Defect Rate 1.70%, Compliance Score 81.2, Sustainability 65.6
+Volume: 478,108 units ordered, 413,617 delivered on time, 8,728 rejected. Total PO value $11,752,038.
+Average Lead Time: 27 days. Payment Terms: Net-45. Risk Level: Low.
+Certifications Held: ISO9001, NADCAP.
+Active Disruptions: Port congestion risk, Seasonal flood risk, Geopolitical tension flag, Regulatory audit pending, Labour strike risk, Currency volatility flag, Tariff adjustment pending.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-095. Last Audit: 2023-03-11.
+
+SUPPLIER PROFILE: SUP-116 — Prairie Mech Corp
+Region: nan | Country: Canada | Category: Mechanical Components | Tier: Tier-2
+Aggregated Performance across 17 POs: OTD 85.0%, Defect Rate 1.66%, Compliance Score 80.3, Sustainability 69.5
+Volume: 404,017 units ordered, 349,738 delivered on time, 6,946 rejected. Total PO value $2,153,365.
+Average Lead Time: 31 days. Payment Terms: Net-45. Risk Level: Medium.
+Certifications Held: IATF16949, ISO9001.
+Active Disruptions: Regulatory audit pending, Seasonal flood risk, Political instability flag, Port closure risk, Audit overdue; compliance review.
+POLICY FLAGS: None — meets all tier requirements.
+Alternate Supplier: SUP-083. Last Audit: 2024-05-05.
